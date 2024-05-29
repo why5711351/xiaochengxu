@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#5677FC",
+    "navigationBarTitleText": "体考向前冲",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ffffff",
+    "backgroundColorTop": "#fafafa",
+    "backgroundColorBottom": "#fafafa",
+    "navigationStyle": "custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}
